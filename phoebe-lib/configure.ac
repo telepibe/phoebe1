@@ -32,7 +32,7 @@
 ########################################################################
 
 # This configure.ac will work with autoconf 2.50 or later:
-  AC_PREREQ([2.71])
+  AC_PREREQ([2.65])
 
 # Initialize configure.ac for autoconf:
   AC_INIT([phoebe-lib],[1.0],[phoebe-devel@lists.sourceforge.net])
